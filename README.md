@@ -9,7 +9,7 @@
 
 <h3 align="left">URL Pojects:</h3>
 
-- 👾 APP Pokemon: https://pi-pokemon-main-delta.vercel.app
+- 👾 APP Pokemon: **https://pi-pokemon-main-delta.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
