@@ -10,6 +10,7 @@
 <h3 align="left">URL Pojects:</h3>
 
 - 👾 APP Pokemon: **https://pi-pokemon-main-delta.vercel.app**
+- 👴👦 APP rick and morty: **https://rick-and-morty-rose-psi.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
