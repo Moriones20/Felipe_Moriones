@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Desarrollador Fullstack orientado al <strong>Back-end</strong> y manejo de base de datos.<br>Desde muy pequeño me ha fascinado el mundo de la programación. El primer lenguaje que aprendí fue <strong>Python</strong>.</p>
+<p align="left">Desarrollador Fullstack orientado al Back-end y manejo de base de datos.<br>Desde muy pequeño me ha fascinado el mundo de la programacion. El primer lenguaje que aprendi fue Python.</p>
 
 ###
 
-<h4 align="left">🚀 ¿CUAL ES MI CAMINO?</h4>
+<p align="left">🚀¿CUAL ES MI CAMINO?</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">📊 STATS</h4>
+<h4 align="left">📊STATS</h4>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">💻 ¿QUE TECNOLOGIAS USO?</h4>
+<h4 align="left">💻¿QUE TECNOLOGIAS USO?</h4>
 
 ###
 
@@ -68,10 +68,9 @@
   <a href="https://www.instagram.com/felipemsd._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
+  <a href="mailto:moriones06082001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
+  </a>
 </div>
-
-<p align="left">No dudes en contactarme tambien por correo: 
-  <a href="mailto:moriones06082001@gmail.com">moriones06082001@gmail.com</a>
-</p>
 
 ###
