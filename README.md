@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/92F4XN2/bitmoji-removebg-preview.png"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
