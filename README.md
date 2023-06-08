@@ -70,4 +70,8 @@
   </a>
 </div>
 
+<p align="left">No dudes en contactarme tambien por correo: 
+  <a href="mailto:moriones06082001@gmail.com">moriones06082001@gmail.com</a>
+</p>
+
 ###
