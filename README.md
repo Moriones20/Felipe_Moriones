@@ -1,15 +1,39 @@
-<h2 align="center">Hi 👋! My name is Felipe Moriones and I'm a Software Dev, from Colombia</h2>
+<h2 align="left">Hola👋! Mi nombre es Felipe Moriones</h2>
 
 ###
 
-<div align="center">
+<h4 align="left">🙋‍♂️ ¿QUIEN SOY?</h4>
+
+###
+
+<p align="left">Desarrollador Fullstack orientado al <strong>Back-end</strong> y manejo de base de datos.<br>Desde muy pequeño me ha fascinado el mundo de la programación. El primer lenguaje que aprendí fue <strong>Python</strong>.</p>
+
+###
+
+<h4 align="left">🚀 ¿CUAL ES MI CAMINO?</h4>
+
+###
+
+<p align="left">Mi camino en el desarrollo full-stack me ha brindado una base sólida y una perspectiva integral de los proyectos. Ahora, estoy emocionado por concentrarme en desarrollar aplicaciones robustas, escalables y eficientes que satisfagan las necesidades de los usuarios y las demandas del mercado.</p>
+
+###
+
+<h4 align="left">📊 STATS</h4>
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Moriones20&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moriones20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<h4 align="left">💻 ¿QUE TECNOLOGIAS USO?</h4>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -33,7 +57,11 @@
 
 ###
 
-<div align="center">
+<h4 align="left">🔎¿DONDE ME PUEDEN ENCONTRAR?</h4>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/felipe-moriones/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
@@ -41,9 +69,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 ###
