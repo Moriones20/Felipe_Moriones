@@ -70,9 +70,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Moriones20/Moriones20/output/snake.svg" alt="Snake animation" />
-
-###
