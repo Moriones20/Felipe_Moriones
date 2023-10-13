@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! Mi nombre es Felipe Moriones</h2>
+<h1 align="left">Hola! Mi nombre es Felipe Moriones</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Desarrollador Fullstack orientado fuertemente al Front-end y Back-end.<br>Desde muy pequeño me ha fascinado el mundo de la tecnologia y estoy feliz y emocionado por seguir aprendiendo sobre este campo.</p>
+<p align="left">Soy Desarrollador Fullstack.<br>Desde muy pequeño me ha fascinado el mundo de la tecnologia y estoy feliz y emocionado por seguir aprendiendo sobre este campo.</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Mi camino en el desarrollo full-stack me ha brindado una base sólida y una perspectiva integral de los proyectos. Ahora, estoy emocionado por concentrarme en desarrollar aplicaciones robustas, escalables y eficientes que satisfagan las necesidades de los usuarios y las demandas del mercado.</p>
+<p align="left">Mi camino en el desarrollo Fullstack me ha brindado una base sólida y una perspectiva integral de los proyectos. Ahora, estoy emocionado por concentrarme en desarrollar aplicaciones robustas, escalables y eficientes que satisfagan las necesidades de los usuarios y las demandas del mercado.</p>
 
 ###
 
